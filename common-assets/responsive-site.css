@@ -1,0 +1,244 @@
+@media screen and (max-width:1220px)
+{
+.top-nav-center-div{width:96%; margin-left:2%; margin-right:2%}
+.center80P-div{width:98%; margin-left:1%; margin-right:1%;}
+
+}
+
+@media screen and (max-width:960px)
+{
+.top-nav-center-div{width:98%; margin-left:1%; margin-right:1%}
+.top-navigation-ul{float:right; width:100%; clear:both;height:auto}
+.top-nav-outer-div{height:auto;;padding-bottom:5px}
+.top-nav-center-div{height:auto}
+.call-share-div {display:block}
+.action-call-share-div {display:block; text-align:center;position:fixed;bottom:0;z-index:999;}
+.center80P-div{width:98%; margin-left:1%; margin-right:1%;}
+.about-center-div{width:98%; margin-left:1%; margin-right:1%}
+}
+
+
+
+
+
+@media screen and (max-width:650px)
+{
+#slider-container{padding:0px;}
+.top-nav-outer-div{height:auto; position:relative}
+.top-nav-center-div{width:98%; height:auto; margin-left:1%; margin-right:1%; padding-bottom:3px}
+.top-navigation-ul{float:none; width:100%; background-color:#6d6d6d; padding-top:1px; padding-bottom:0px; -moz-box-sizing:border-box; box-sizing:border-box; padding-left:5px; clear:both; display:none; z-index:0; height:auto}
+.top-navigation-ul li{display:block; float:none}
+.top-navigation-ul a{display:block; float:none; height:auto; padding-top:5px; padding-bottom:5px; text-align:left; margin-bottom:1px; background-color:#f4f5f7}
+
+.top-navigation-ul li #home-ID{background-image:none;display:block; float:none; height:auto; padding-top:6px; padding-bottom:6px; text-align:left; margin-bottom:1px; background-color:#f4f5f7; -moz-border-radius:0px;border-radius:0px; margin-right:1px}
+.top-navigation-ul li #home-ID:hover{background-image:none; background-color:#3a3a3b}
+.top-navigation-ul li #about-us-ID{background-image:none;display:block; float:none; height:auto; padding-top:6px; padding-bottom:6px; text-align:left; margin-bottom:1px; background-color:#f4f5f7; -moz-border-radius:0px;border-radius:0px; margin-right:1px}
+.top-navigation-ul li #about-us-ID:hover{background-image:none; background-color:#3a3a3b}
+.top-navigation-ul li #services-ID{background-image:none;display:block; float:none; height:auto; padding-top:6px; padding-bottom:6px; text-align:left; margin-bottom:1px; background-color:#f4f5f7; -moz-border-radius:0px;border-radius:0px; margin-right:1px}
+.top-navigation-ul li #services-ID:hover{background-image:none; background-color:#3a3a3b}
+.top-navigation-ul li #career-ID{background-image:none;display:block; float:none; height:auto; padding-top:6px; padding-bottom:6px; text-align:left; margin-bottom:1px; background-color:#f4f5f7; -moz-border-radius:0px;border-radius:0px; margin-right:1px}
+.top-navigation-ul li #career-ID:hover{background-image:none; background-color:#3a3a3b}
+.top-navigation-ul li #clients-ID{background-image:none;display:block; float:none; height:auto; padding-top:6px; padding-bottom:6px; text-align:left; margin-bottom:1px; background-color:#f4f5f7; -moz-border-radius:0px;border-radius:0px; margin-right:1px}
+.top-navigation-ul li #clients-ID:hover{background-image:none; background-color:#3a3a3b}
+.top-navigation-ul li #media-ID{background-image:none;display:block; float:none; height:auto; padding-top:6px; padding-bottom:6px; text-align:left; margin-bottom:1px; background-color:#f4f5f7;  -moz-border-radius:0px;border-radius:0px; margin-right:1px}
+.top-navigation-ul li #media-ID:hover{background-image:none; background-color:#3a3a3b}
+.top-navigation-ul li #contact-ID{background-image:none;display:block; float:none; height:auto; padding-top:6px; padding-bottom:6px; text-align:left; margin-bottom:1px; background-color:#f4f5f7; -moz-border-radius:0px;border-radius:0px; margin-right:1px}
+.top-navigation-ul li #contact-ID:hover{background-image:none; background-color:#3a3a3b}
+
+
+#bullet-back{margin-left:15px}
+.top-navigation-ul li ul{background-color:#3a3a3b; padding-left:7px; margin-top:-1px}
+.top-navigation-ul li ul li a{padding-left:7px;background: linear-gradient(#eeeeee, #eeeeee);background: -moz-linear-gradient(#eeeeee, #eeeeee); padding-top:6px; padding-bottom:6px; border:0px; margin-right:1px; margin-bottom:1px; font-size:13px}
+.top-navigation-ul li ul li a:hover{border:0px}
+.top-navigation-ul li ul li ul{background-color:#0391ab; margin-top:0px}
+.top-navigation-ul li ul li ul a{background: linear-gradient(#d2d2d2, #d2d2d2);background: -moz-linear-gradient(#d2d2d2, #d2d2d2);}
+.top-navigation-ul li ul li ul li ul{background-color:#000000; margin-top:0px}
+.top-navigation-ul li ul li ul li ul a{background: linear-gradient(#000000, #000000);background: -moz-linear-gradient(#000000, #000000); background-color:#000000; color:#ffffff}
+
+
+
+.logo-div{display:block; float:left; height:50px;margin-bottom:5px;}
+.logo-image{height:50px; }
+.menu-trigger{display:block}
+.nav-expanded{display:block}
+
+
+.company-name-div {float:left}
+.company-nameP{font-size:20px}
+.company-type{font-size:12px; margin-bottom:0px}
+.company-iso{font-size:10px}
+.call-share-div {display:block}
+
+.slider-blank-div{display:none}
+.center80P-div{width:98%; margin-left:1%; margin-right:1%;}
+.content-boxes-heading{margin-top:20px; margin-bottom:5px}
+.learning-center-boxes-div{width:96%; margin-left:2%; margin-right:2%; float:none; clear:both}
+.about-center-div{width:96%; margin-left:2%; margin-right:2%}
+.about-us-heading{font-size:30px;}
+.about-us-matter{font-size:14px; margin-top:0px; line-height:20px}
+
+.knowledge-box-div-1{width:96%; margin-left:2%; margin-right:2%}
+.knowledge-box-div-2{width:96%; margin-left:2%; margin-right:2%}
+
+.three-box-div{width:98%; margin-left:1%; margin-right:1%}
+.map-video-div{width:98%; margin-left:1%; margin-right:1%; float:none}
+#map-id{height:250px}
+.membership-div{width:98%; margin-left:1%; margin-right:1%; float:none}
+
+.social-center-div{width:98%; margin-left:1%; margin-right:1%}
+.social-media-four-box-div{width:46%; margin-left:2%; margin-right:2%;}
+.social-us-heading{font-size:18px}
+.youtube-link-home{font-size:14px}
+.twitter-link-home{font-size:14px}
+.facebook-link-home{font-size:14px}
+.linkedin-link-home{font-size:14px}
+.wordpress-link-home{font-size:14px; float:none; margin-left:auto; margin-right:auto}
+
+
+.footer-links-UL{width:46%; margin-right:4%}
+.footer-links-div{margin-top:0px;}
+.footer-right-most-div{width:100%; margin-right:0px; float:left; clear:both; border-left:0px; margin-left:0px; border-top:solid 1px #4d4877; margin-top:20px; padding-top:10px}
+.footer-links-headings{margin-bottom:0px; margin-top:15px}
+#last-footer-links{width:70%}
+.footer-links-UL li{padding-bottom:2px; padding-top:2px}
+.footer-disclaimer-div{width:96%; margin-left:2%; margin-right:2%}
+#clearboth{clear:both}
+#clearboth1{clear:both}
+.innerUL{margin-left:0px; background-color:#00FF66; padding-left:7px; margin-top:1px}
+
+.start-business-center-div{width:96%; margin-left:auto; margin-right:auto}
+.start-boxes-div1{width:99%; margin-left:auto; margin-right:auto; margin-bottom:10px;-moz-border-radius:5px;border-radius:5px;}
+.start-boxes-div2{width:99%; margin-left:auto; margin-right:auto; margin-bottom:10px;-moz-border-radius:5px;border-radius:5px;}
+.start-boxes-div3{width:99%; margin-left:auto; margin-right:auto;-moz-border-radius:5px;border-radius:5px;}
+.innermost-UL{margin-left:0px; padding-left:7px}
+
+
+.slider-main-div-inner{display:none}
+
+
+.inner-start-outer-div{margin-top:10px}
+.inner-start-center-div{width:100%}
+.inner-startUL{width:96%; margin-left:2%; margin-right:2%}
+.inner-startUL li{width:100%; float:none; clear:both}
+#over-UL-center{width:100%}
+.inner-UL-start{font-size:14px;background-image: url(images/start-my-business-small.png);	background-repeat: no-repeat; background-position: 20px 5px; height:24px; padding-top:6px; padding-left:60px}
+.inner-UL-maintain{font-size:14px;background-image: url(images/maintain-my-business-small.png);	background-repeat: no-repeat; background-position: 20px 5px; height:24px; padding-top:6px; padding-left:60px}
+.inner-UL-filing{font-size:14px;background-image: url(images/my-regulatory-filing-small.png);	background-repeat: no-repeat; background-position: 20px 5px; height:24px; padding-top:6px; padding-left:60px}
+
+#over-UL:hover .inner-UL-start{background-color:#000000;font-size:14px;background-image: url(images/start-my-business-small.png);	background-repeat: no-repeat; background-position: 20px 5px; height:24px; padding-top:6px; padding-left:60px; color:#FFFFFF}
+#over-UL-center:hover .inner-UL-maintain{background-color:#000000;font-size:14px;background-image: url(images/maintain-my-business-small.png);	background-repeat: no-repeat; background-position: 20px 5px; height:24px; padding-top:6px; padding-left:60px; color:#FFFFFF}
+#over-UL:hover .inner-UL-filing{background-color:#000000;font-size:14px;background-image: url(images/my-regulatory-filing-small.png); background-repeat: no-repeat; background-position: 20px 5px; height:24px; padding-top:6px; padding-left:60px; color:#FFFFFF}
+
+.inner-UL-UL1{width:84%; margin-left:16%; margin-top:0px; background-color:#efefef}
+.inner-UL-UL2{width:84%; margin-left:16%; margin-top:0px; background-color:#efefef}
+.inner-UL-UL3{width:84%; margin-left:16%; margin-top:0px; background-color:#efefef }
+.three-boxes-first-div{width:100%; float:none}
+.three-boxes-third-div{display:none}
+
+
+.container-main-div-center{width:96%; margin-left:2%; margin-right:2%}
+.fast-text{text-align:center;}
+
+.ac-container label{font-size: 12px;}
+
+.BSP-UL-Div{}
+.BSP-UL{width:100%; float:none; height:auto; margin-bottom:10px; margin-left:0px; margin-right:0px; display:block}
+
+
+.social-networking-icons1{display:none}
+.other-icons1{display:none}
+.date-time-text{display:none}
+
+
+.google-tanslator{float:none; margin-left:auto; margin-right:auto}
+.on-header-div{display:none}
+
+
+.learning-center-left-div{width:100%; float:none; clear:both}
+.learning-center-right-div{width:100%; float:none; clear:both}
+
+.learning-image-new{height:50px; float:left; margin-left:10px;}
+.learning-boxes-H1-new {font-size:16px; text-align:left; margin-top:5px; margin-bottom:5px;}
+.form-banner-center-div{width:96%; margin-left:2%; margin-right:2%}
+.form-textbox-div{width:90%; margin-left:auto; float:none; margin-right:auto; margin-top:5px}
+.form-text{margin-bottom:10px}
+.form-banner-outer-div {background-repeat:repeat-y; margin-bottom:0px}
+.form-span{margin-left:0px}
+.message-div {width:95%; margin-left:auto; margin-right:auto}
+.blog-banner-center-div{width:100%}
+.blog-banner-outer-div {margin-top:20px; margin-bottom:20px}
+.counter-center-div {width:100%}
+.counter-left-div{width:100%; margin:0px; -moz-border-radius:0px; -moz-border-radius:0px;}
+.counter-right-div {width:96%; margin-left:2%; margin-right:2%}
+.counter-image {margin-top:20px; width:96%; margin-left:2%; margin-right:2%}
+.counter-heading {margin-top:20px}
+.counter-four-divs {width:50%}
+.blog-banner-outer-div{display:none}
+
+.why-rajput-20-UL {width:100%;display:block; border-bottom:solid 1px #073159; border-right:none}
+.why-rajput-20-UL-outer {width:100%;display:block;border-bottom:solid 1px #073159}
+.why-rajput-boxes-outer-div{border:none}
+
+.orange-text{font-size:16px; padding-left:10px; padding-right:10px}
+.two-column-UL{width:100%;float:none; display:block}
+.steps-counting-div{width:100%; display:block}
+.steps-counting-div-three-col {width:100%; display:block}
+.steps-counting-div-four-col {width:100%; display:block}
+.three-divs-inner{width:100%; display:block;}
+.two-col-inner-div{width:100%; display:block}
+.BSP-UL-two{width:100%; float:none; display:block}
+#scroll-table-width{width:1000px}
+.table-overflow-scroll{overflow:scroll}
+
+.three-column-UL{width:100%; float:none; display:block}
+.six1{width:90%; margin-left:5%; margin-right:5%}
+
+.what-people-boxes1{width:90%; margin-left:5%; margin-right:5%; margin-bottom:5px; display:block}
+.what-people-boxes2{width:90%; margin-left:5%; margin-right:5%; margin-bottom:5px; display:block}
+.three-column-UL-four{width:100%;float:none; display:block}
+.latest-updates-div{width:96%; margin-left:2%; margin-right:2%}
+.breadcrumb-div {margin-top:0px; margin-bottom:0px}
+
+.dropdown-menu .SMF-dropdown #SMF-Width1{width:auto; background-color:#CCCCFF;}
+.SMF-dropdown #startID1
+{
+	float:none;
+	clear:both;
+	display:block;
+	
+}
+.SMF-dropdown #startID2
+{
+	float:none;
+	clear:both;
+	display:block;
+	
+}
+
+.three-SMF-header-div
+{
+	
+	
+	margin-top:10px;
+}
+.three-SMF-header-div h1
+{
+	
+	font-size:26px;
+	margin-top:0px;
+	margin-bottom:5px;
+	text-shadow:1px 1px #000;
+}
+.three-SMF-header-div p
+{
+	
+	font-size:20px;
+	margin-top:0px;
+	margin-bottom:0px;
+	text-shadow:1px 1px #000;
+}
+
+
+}
+
+

@@ -1,0 +1,141 @@
+<!-- carousel css-->
+.main-container {
+  padding: 10px 15px;
+}
+.skyblue {
+    background-color: #22c8ff;
+}
+.deepskyblue {
+    background-color: #00bfff;
+}
+.darkerskyblue {
+    background-color: #00a6dd;
+}
+.carousel-indicators {
+    bottom: 0;
+}
+.carousel-control.right,
+.carousel-control.left {
+    background-image: none;
+}
+.carousel .item {
+   /* min-height: 350px; */
+    height: 100%;
+    width:100%; 
+}
+.carousel-caption
+{
+	top:15%;
+}
+.carousel-caption h3,
+.carousel .icon-container,
+.carousel-caption button {
+    /*background-color: #09c;*/
+}
+.carousel-caption h3 {
+    
+	font-size:40px;
+	text-align:left;
+	
+	
+}
+.carousel-caption h4 {
+display:block;
+    font-size: 38px;
+    margin-top:20px;
+	margin-bottom:0px;
+    padding:0px;
+    text-align: left;
+	
+	font-family: 'Fjalla One', sans-serif;
+	text-shadow:1px 1px #000000;
+	text-transform:uppercase;
+	transform: scaleY(1);
+}
+.carousel-caption h5 {
+	display:block;
+	font-size: 32px;
+	margin-top:40px;
+	margin-bottom:0px;
+	padding-top:10px;
+	padding-bottom:0px;
+	padding-left:0px;
+	padding-right:0px;
+	text-align: left;
+	font-family: 'Fjalla One', sans-serif;
+	text-shadow:1px 1px #333333;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #ffffff;
+	color: #ff5613;
+	float:left;
+}
+
+
+.carousel .icon-container {
+    display:block;
+    font-size: 38px;
+    margin-top:0px;
+	margin-bottom:0px;
+    padding:0px;
+	
+    text-align: left;
+	font-family: 'Courgette', cursive;
+	text-shadow:1px 1px 3px #000000;
+	
+    
+}
+.carousel-caption button {
+    border-color: #00bfff;
+    margin-top: 1em; 
+}
+
+/* Animation delays */
+.carousel-caption h3:first-child {
+    animation-delay: 1s;
+}
+.carousel-caption h3:nth-child(2) {
+    animation-delay: 2s;
+}
+.carousel-caption h4:nth-child(2) {
+    animation-delay: 2s;
+}
+.carousel-caption h5:nth-child(3) {
+    animation-delay: 3s;
+}
+.carousel-caption button {
+    animation-delay: 3s;
+}
+
+h1 {
+  text-align: center;  
+  margin-bottom: 30px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.carousel-fade .carousel-inner .item {
+  opacity: 0.7;
+  -webkit-transition-property: opacity;
+  -moz-transition-property: opacity;
+  -o-transition-property: opacity;
+  transition-property: opacity;
+  
+}
+.carousel-fade .carousel-inner .active {
+  opacity: 1;
+}
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+  left: 0;
+  opacity: 0;
+  z-index: 1;
+}
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+  opacity: 1;
+}
+.carousel-fade .carousel-control {
+  z-index: 2;
+}
+<!-- end of carousel css-->
